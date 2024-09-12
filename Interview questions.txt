@@ -1,0 +1,59 @@
+Interview questions
+
+1. How do you do mounting in databricks?
+2. You mentioned that service principal used to access storage account and for mounting, Why cant we do mounting with manged identity as there wont be password expiration.
+3. You have a spark job that is running slow, reason for slowness and how can you improve.
+4. How spark calculates no of partitions?
+5. How can you change the partitions
+6. What is data skewness and how can you resolve it
+7. What is AQE?
+8. Have you done any performance tuning?
+9. What is unitycatalog
+10. What services you know in azure?
+11. Find the department wise 3rd highest salary employee.
+12. You have stock table which has stock_id, date, closing_price. Find the stock_id, date which is greater than the previous day and the next day?
+
+
+Databricks:
+What are the types of transformations available in Databricks?
+What is a Magic Command in Databricks?
+What is a Job in the context of Databricks?
+What is a Pool in Databricks and how is it used?
+How can you convert a Dataframe to SQL in Databricks?
+What is the difference between a Temp View and a Global View in Databricks?
+What are the default languages supported in Databricks?
+What is Auto Loader in Databricks?
+What is a Data Warehouse?
+What is a Data Mart?
+What is the difference between a Fact Table and a Dimension Table?
+What are SCD Type 1 and SCD Type 2?
+What is the difference between a Star Schema and a Snowflake Schema?
+What are the different types of Data Modeling?
+Interview Questions:
+What are your roles and responsibilities in your current position?
+How do you handle a new client during a Kick-off Call?
+How do you calculate the cost of a project?
+What factors or situations make you feel worried in a project?
+Have you had experience working with Azure Synapse?
+
+
+Question-
+1-Type of ADF Activity
+2-Type of Service Tier
+3-Type of Trigger 
+4-Type of Integration RunTime
+5-Component of ADF
+6-What is Cloud Computing?
+7-What is Data Flow?
+8-What is look-up activity and it's limitations?
+9-What is Nasted loop?
+10-What is difference between Blob and ADLS?
+11-What is difference between Get Metadata and Look-up activity?
+12-What transformations have you performed in ADF?
+13-Type of Cloud Services
+14-Type of Cloud
+15-Type of Encryption
+16-Type of Access Tier
+17-Type of Data Storage in Blob
+
+
